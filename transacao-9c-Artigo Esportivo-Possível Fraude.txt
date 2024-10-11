@@ -1,0 +1,13 @@
+Recomendação: 
+
+Devido ao status atual da transação como "Possível Fraude" e a presença de fatores de risco, como valor elevado e tipo de transação, recomenda-se acionar a seguinte ação:
+
+Ação: "Acionar setor Anti-Fraude"
+
+As suspeitas levantadas necessitam de uma análise mais detalhada por especialistas. O setor Anti-Fraude deve realizar uma investigação mais aprofundada para confirmar ou descartar a atividade fraudulenta. É necessário reunir mais informações ou avançar com rotinas de prevenção de fraudes, como verificar a consistência desta transação com o histórico de compra do cliente.
+
+Além disso, sugere-se uma comunicação diretamente com o cliente para confirmar esta transação. 
+
+Ação: "Notificar Cliente"
+
+Diante das suspeitas de fraude, esta transação pode ser considerada um caso de "Fraude de Cartão de Crédito", visto que é uma transação de crédito com valor elevado.
